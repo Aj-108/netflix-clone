@@ -12,7 +12,7 @@ function ProfileScreen() {
 
   return (
     <div className='profileScreen'>
-        <Nav />
+        <Nav /> 
         <div className="profileScreen__body">
                <h1> Edit Profile </h1>
                 <div className="profileScreen__info">
